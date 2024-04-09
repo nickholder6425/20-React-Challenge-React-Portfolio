@@ -1,0 +1,360 @@
+/* Imported Font and Universal Selector */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* HTML element styling */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(90deg, rgb(17, 17, 224) 0%, rgb(236, 26, 26) 100%);
+}
+
+header {
+    background: linear-gradient(90deg, rgb(54, 54, 202) 0%, rgb(218,58,58) 100%);
+    padding: 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+    color: white;
+    filter: drop-shadow(17px 15px 24px #00000080);
+    border-radius: 0 0 30px 30px;
+}
+
+main {
+    max-width: 1100px;
+    margin: 0 auto;
+    color: white
+}
+
+h2 {
+    font-size: 32px;
+    margin: 0 auto;
+    color: white
+    
+}
+
+hr {
+    margin-bottom: 40px;
+    background-color: #ffffff60;
+    height: 1px;
+    border: none;
+}
+
+#form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+form {
+    text-align: center;
+}
+
+form label {
+    width: 120px; /* Set a fixed width for all labels */
+    display: inline-block;
+    text-align: right;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 250px; 
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form button {
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+a div p {
+    font-weight: 500;
+}
+
+h2{
+    padding-bottom: 22px;
+}
+
+/* Section Id's for my h2 and paragraph */
+#about p {
+    font-size: 22px;
+    line-height: 42px;
+}
+a:link {
+    color: white;
+  }
+
+a:visited {
+    color: white;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+  }
+
+#resume p {
+    font-size: 22px;
+    line-height: 42px;
+}
+
+#my-work {
+    padding-bottom: 72px;
+}
+
+/* Header and navbar styles */
+.profile-picture {
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    object-fit: cover;
+    border: 5px dotted white;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    border-top: 5px solid white;
+    margin-top: 20px;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: -1px;
+}
+
+.navlist {
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+}
+
+.navlist li a {
+    padding: 10px 40px;
+    border: 2px solid white;
+    margin: 0 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 8px;
+    word-break: keep-all;
+    width: 75px;
+    text-align: center;
+   
+}
+
+.navlist li {
+    display: contents;
+}
+
+/* Div wrapped styling for projects */
+.projects {
+    display: flex;
+    justify-content: center;
+}
+
+.main-projects {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+.side-projects {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Animation styling for linked images and navbar */
+.animate {
+    transition: all 0.3s ease-in-out;
+}
+
+.animate:hover {
+    transform: scale(1.02);
+}
+
+/* Styling for the borders of project images */
+.projects a {
+    filter: drop-shadow(5px 5px 10px #000000);
+    border-radius: 20px;
+    padding: 20px;
+    border: 8px solid rgb(54, 9, 54);
+    position: relative;
+    color: white;
+    background-color: rgb(54, 9, 54);
+}
+.main-projects a {
+    filter: drop-shadow(5px 5px 10px #000000);
+    border-radius: 20px;
+    padding: 20px;
+    border: 8px solid rgb(54, 9, 54);
+    position: relative;
+    color: white;
+    background-color: rgb(54, 9, 54);
+}
+
+a div {
+    background-color: rgb(54, 9, 54);
+    width: fit-content;
+    padding: 10px;
+    border-radius: 0 10px 10px 0;
+    position: absolute;
+    bottom: 20px;
+    left: -1px;
+}
+
+/* Styling for sections */
+section {
+    padding: 50px 20px 0 20px;
+}
+
+/* Styling for contacts wrapped in a div */
+.contacts {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0 75px 0; 
+}
+
+.contacts a {
+    padding: 10px 40px;
+    border: 2px solid white;
+    margin: 0 5px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 8px;
+    word-break: keep-all;
+    max-width: 125px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+    color: white
+}
+
+/* Project Id's and styling */
+#project-one {
+    background-image: url(/public/images/DB_easy.png);
+    height: 550px;
+    width: 80%;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#project-one-2 {
+    background-image: url(/public/images/zestyClip.png);
+    height: 550px;
+    width: 80%;
+    background-size: cover;
+    background-position: center;
+}
+
+
+#project-two {
+    background-image: url(/images/time-coding-quiz.png);
+    height:225px;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#project-three {
+    background-image: url(/images/weather-dashboard.png);
+    height: 225px;
+    background-size: cover;
+    background-position: center;
+}
+
+#project-four {
+    background-image: url(/images/employee-manager.png);
+    height: 225px;
+    background-size: cover;
+    background-position: left;
+}
+
+#project-five {
+    background-image: url(/images/work-day-scheduler.png);
+    height: 225px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* Responsive Web Design */
+@media(max-width: 840px) {
+    .navbar {
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+    .profile-picture {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media(max-width: 540px) {
+    .navlist {
+        flex-direction: column;
+        gap: 40px;
+        width: 100%;
+        align-items: center;
+    }
+    .contacts {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .projects {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .side-projects {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    #project-one, #project-one-2 {
+        width: 175%;
+
+    }
+}
