@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './reportWebVital';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // ReactDOM renders App component at root element in index.html in public folder

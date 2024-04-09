@@ -1,6 +1,4 @@
 import React from "react";
-// updated resume with material advisor feedback
-// import resumePDF from "../../assets/resumePDF.pdf";
 import DevResume from "../../assets/DevResume.pdf";
 import {
   FaGitAlt,
