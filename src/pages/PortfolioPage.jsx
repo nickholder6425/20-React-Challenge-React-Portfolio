@@ -12,22 +12,6 @@ export default function PortfolioPage() {
                             <p>Dog Boarding Made Easy</p>
                         </div>
                     </a>
-                    {/* <a href="https://warhawk1950.github.io/Zesty-Bytes/" target="_blank" className="animate" id="project-one-2"
-                        aria-label="A food recipe website">
-                        <div>
-                            <h3>Zesty Bytes</h3>
-                            <p>Quick Recipe Search App</p>
-                        </div>
-                    </a>
-                </div>
-                <div className="side-projects">
-                    <a href="https://andruegage.github.io/webapi-timed-quiz/" target="_blank" className="animate" id="project-two"
-                        aria-label="Coding Quiz">
-                        <div>
-                            <h3>Timed Coding Quiz</h3>
-                            <p>A Timed Quiz Challenge</p>
-                        </div>
-                    </a> */}
                     <a href="https://www.linkedin.com/in/nick-holder-570110272/" target="_blank" className="animate" id="project-three"
                         aria-label="5 day weather forecast">
                         <div>
@@ -47,7 +31,7 @@ export default function PortfolioPage() {
                         <div>
                             <h3>Work Day Scheduler</h3>
                             <p>A simple calendar application that allows user to save events for each hour of a typical work day (9am-5pm).</p>
-                        </div>
+                          </div>
                     </a>
                 </div>
             </div>
