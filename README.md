@@ -11,6 +11,7 @@ You can visit my site [here](https://nix-portfolio.netlify.app//)
 ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Demo](#demo)
   - [Credits](#credits)
   - [Questions](#questions)
 
@@ -22,28 +23,24 @@ npm install
 ## Usage
 Run the following command on your CLI to run the application:
 
-npm start
+npm run build
 
+Run the following command on your CLI to run the application:
+
+npm run dev
+
+## Demo
 ![Screenshot](image.png)
 
 ## Credits
 
-[ChatGPT](https://chat.openai.com/c/278de262-3dcf-4162-a009-1e6f5d8d8acd)
-
-[GitHub Challenge Example](https://github.com/njthanhtrang/18.-NoSQL-Challenge-Social-Network-API)
+[React](https://react.dev/learn/add-react-to-an-existing-project#step-1-set-up-a-modular-javascript-environment)
   
-[GitHub Challenge Example](https://github.com/Grunt395/Module-18-Challenge)
-  
-  [Andrew Hoang's Module 18 Challenge Video](https://zoom.us/rec/play/u1ASslllh6Nd1g1aZtE148HTyL2xwggpGZQGcjV0Tkodqaj3xgNC2RYrEuJ_Ho8b-uR7hOR6WbCZkmhQ.CNKoBLqMYRrY2hIE?continueMode=true)
+[GitHub Challenge Example](https://github.com/AndrueGage/react-portfolio)
 
-  ## Tests
-  undefined
+## Questions
+For questions about contribution about the project, please contact [Nick Holder](mailto:ngholder@hotmail.com).
 
-  ## Questions
-  For questions about contribution about the project, please contact [Nick Holder](mailto:ngholder@hotmail.com).
+## License
+[MIT](https://opensource.org/licenses/MIT)
 
- ## License
- [MIT](https://opensource.org/licenses/MIT)
-
-  ## Questions
-  If you have any questions, contact me on [Github](https://github.com/AndrueGage/) or email me at trainer.andrue@gmail.com
