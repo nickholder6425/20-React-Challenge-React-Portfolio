@@ -6,7 +6,7 @@
 
 This webpage is my React-based portfolio. Here, you can explore information about me, browse through my portfolio of projects, download my resume, and soon, you'll be able to reach out to me via email!
 
-You can visit my site [here](https://nix-portfolio.netlify.app//)
+You can visit my site [here](https://nix-portfolio.netlify.app//).
 
 ## Table of Contents
   - [Installation](#installation)
