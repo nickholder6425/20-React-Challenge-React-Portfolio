@@ -4,7 +4,7 @@ export default function PortfolioPage() {
             <h2>My Work</h2>
             <hr />
             <div className="projects">
-                <div className="main-project">
+                <div className="main-projects">
                     <a href="https://dog-boarding-made-easy-e9bece2e7102.herokuapp.com/login" target="_blank" className="animate" id="project-one"
                         aria-label="Web application for dog boarding.">
                         <div>
@@ -13,8 +13,7 @@ export default function PortfolioPage() {
                         </div>    
                     </a>
                 </div>
-            </div>
-            <div className="side-projects">
+                <div className="side-projects">
                     <a href="https://www.linkedin.com/in/nick-holder-570110272/" target="_blank" className="animate" id="project-three"
                         aria-label="5 day weather forecast">
                         <div>
@@ -36,6 +35,7 @@ export default function PortfolioPage() {
                             <p>A simple calendar application that allows user to save events for each hour of a typical work day (9am-5pm).</p>
                         </div>
                     </a>
+                </div>
             </div>
         </section>
     )

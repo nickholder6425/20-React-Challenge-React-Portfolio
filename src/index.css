@@ -286,10 +286,10 @@ section {
     width: 80%;
     background-size: cover;
     background-position: center;
-}
+} */
 
 
-#project-two {
+* #project-two {
     background-image: url(/images/time-coding-quiz.png);
     height:225px;
     background-size: cover;
