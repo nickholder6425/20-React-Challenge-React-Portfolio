@@ -1,8 +1,6 @@
 # 20-React Challenge: React Portfolio
 
-## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[MIT](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -39,6 +37,9 @@ npm run dev
 [React](https://react.dev/learn/add-react-to-an-existing-project#step-1-set-up-a-modular-javascript-environment)
   
 [GitHub Challenge Example](https://github.com/AndrueGage/react-portfolio)
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Questions
 For questions about contribution about the project, please contact [Nick Holder](mailto:ngholder@hotmail.com).
