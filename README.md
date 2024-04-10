@@ -2,7 +2,6 @@
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -16,6 +15,7 @@ You can visit my site [here](https://nix-portfolio.netlify.app//)
   - [Usage](#usage)
   - [Screenshot](#screenshot)
   - [Credits](#credits)
+  - [License](#license)
   - [Questions](#questions)
 
 ## Installation
@@ -36,7 +36,6 @@ npm run dev
 ![Screenshot](image.png)
 
 ## Credits
-
 [React](https://react.dev/learn/add-react-to-an-existing-project#step-1-set-up-a-modular-javascript-environment)
   
 [GitHub Challenge Example](https://github.com/AndrueGage/react-portfolio)
