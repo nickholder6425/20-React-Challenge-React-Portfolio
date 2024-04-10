@@ -19,17 +19,17 @@ You can visit my site [here](https://nix-portfolio.netlify.app//).
 ## Installation
 Clone the repository, navigate to the project folder on your CLI and run the following command to install Node.js:
 
-  npm install
+    npm install
 
 ## Usage
 Run the following command on your CLI to run the application:
 
-  npm run build
+    npm run build
 
 
 Run the following command on your CLI to run the application:
 
-  npm run dev
+    npm run dev
 
 ## Screenshot
 ![Screenshot](image.png)
