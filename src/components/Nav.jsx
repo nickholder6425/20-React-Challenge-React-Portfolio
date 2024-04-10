@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 export default function Nav() {
     return (
         <header>
-        <img src="/images/Nix Pic.jpg" className="profile-picture" alt="A picture of me with a dog." />
+        <img src="/images/Nix Pic.jpg" className="profile-picture" alt="Profile pic." />
         <div className="navbar">
             <h1 className="name">Nicholas Holder</h1>
             <nav>
