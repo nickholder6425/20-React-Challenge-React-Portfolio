@@ -10,8 +10,11 @@ export default function PortfolioPage() {
                         <div>
                             <h3>DB Easy</h3>
                             <p>Dog Boarding Made Easy</p>
-                        </div>
+                        </div>    
                     </a>
+                </div>
+            </div>
+            <div className="side-projects">
                     <a href="https://www.linkedin.com/in/nick-holder-570110272/" target="_blank" className="animate" id="project-three"
                         aria-label="5 day weather forecast">
                         <div>
@@ -31,9 +34,8 @@ export default function PortfolioPage() {
                         <div>
                             <h3>Work Day Scheduler</h3>
                             <p>A simple calendar application that allows user to save events for each hour of a typical work day (9am-5pm).</p>
-                          </div>
+                        </div>
                     </a>
-                </div>
             </div>
         </section>
     )
