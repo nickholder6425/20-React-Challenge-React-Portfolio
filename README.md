@@ -29,7 +29,7 @@ Run the following command on your CLI to run the application:
 
 npm run dev
 
-## Demo
+## Demo Screenshot
 ![Screenshot](image.png)
 
 ## Credits
