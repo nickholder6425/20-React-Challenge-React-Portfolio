@@ -11,7 +11,7 @@ You can visit my site [here](https://nix-portfolio.netlify.app//)
 ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Demo](#demo)
+  - [Screenshot](#screenshot)
   - [Credits](#credits)
   - [Questions](#questions)
 
@@ -29,7 +29,7 @@ Run the following command on your CLI to run the application:
 
 npm run dev
 
-## Demo Screenshot
+## Screenshot
 ![Screenshot](image.png)
 
 ## Credits
