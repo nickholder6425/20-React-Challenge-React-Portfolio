@@ -10,7 +10,7 @@ export default function Footer() {
             <a href="mailto:ngholder@hotmail.com " target="_blank" className="animate">
                 <img src="/images/email.svg" alt="email icon" />Email
             </a>
-            <a href="https://www.linkedin.com/in/nick-holder-570110272/" target="_blank" className="animate">
+            <a href="https://www.linkedin.com/in/nicholas-holder-7a6959303/" target="_blank" className="animate">
                 <img src="/images/linkedin.svg" alt="linkedin icon" />LinkedIn
             </a>
         </div>
